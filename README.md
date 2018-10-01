@@ -23,7 +23,7 @@
    <a href="https://en.wikipedia.org/wiki/Cat"><button> More Information</button></a>
    </section>
   <section>
-    Feluis Charus
+  Feluis Charus
     <img
   src="http://www.wotcat.com/image/wildcat/jungle-cat.jpg"    
   <ul>
